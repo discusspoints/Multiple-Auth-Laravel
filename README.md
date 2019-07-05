@@ -1,1 +1,1 @@
-# Multiple-Auth-Laravel
+# Multiple-Authantication-Laravel
